@@ -1,0 +1,44 @@
+<h4>On the stability of exotic solutions in intertype superconductivity (2d)</h4>    
+    
+<article>  
+In the conventional Ginzburg-Landau theory there are two superconducting types, I and II, and the difference between them is evaluated through the Ginzburg-Landau parameter $\kappa = \lambda_{L}/\xi$, in which $\lambda_L$ is the London penetration depth and $\xi$ is the coherence length. The change between types occur when $\kappa$ crosses a critical value $\kappa_{0}=1/\sqrt{2}$: for $\kappa>\kappa_{0}$ there is type II and for $\kappa<\kappa_0$, type I. At $\kappa=\kappa_0$, the Ginzburg-Landau equations are written as self-dual Bogomolnyi equations.
+
+$$(\partial_{y}+i\partial_{x}) \Psi = (A_{x} - i A_{y})$$ <br>
+
+$$\mathcal{B} = 1 - |\Psi|^{2},$$
+
+with $A$ the potential vector and $\mathcal{B}$ the magnetic induction. 
+The Bogomolnyi point ("B-point") $\kappa=\kappa_0$ is a superconducting state infinitely degenerate. 
+However, the full microscopic theory is not degenerate as there are corrections of higher orders to the
+Ginzburg-Landau theory. As a result, there is a hierarchy of stability to configurations in a domain between
+the conventional types I e II in the phase diagram (coined "intertype").
+
+To describe the remotion of degeneracy the simpler form is to produce a perturbation theory in deviations 
+from the critical temperature. To understand the stability of configurations within the intertype domain it
+suffices a correction of a single order to the Ginzburg-Landau theory. As the interest is the stability in
+the neighborhood of $\kappa=\kappa_0$ in a $(\kappa,T)$ diagram, an expansion in deviation $\delta \kappa=\kappa-\kappa_0$.
+The result of Gibbs free energy relative to the Meissner state is provided through 
+
+$$
+\mathcal{G} = 
+ \tau^{2} (-\sqrt{2} \mathcal{I} \delta k +  \tau[
+C_{1} \mathcal{I}  +
+C_{2} \mathcal{J}]) 
+$$ 
+
+with the definitions
+
+$\mathcal{I}= \int |\Psi|^{2} (1-|\Psi|^{2})d \vec{x}$ and $\mathcal{J}= \int |\Psi|^{4} (1-|\Psi|^{2})d \vec{x}$ and $\Psi$ solution to Bogomolnyi. $C_{1}$ and $C_{2}$ dependent in the band structure of material and universal constants in the case of single-band conventional superconductor. For instance, $C_{1}=-0.41$ and $C_{2}=0.68$ for Fermi spherical surfaces in the single-band conventional superconductor. Therefore, the Bogomolnyi equation is a key equation in the treatment of solution stability in the vicinity of $\kappa=\kappa_{0}$, as it provides the information of stability concerning many superconducting configurations.
+
+The first Bogomolnyi equation is remarkably reduced to a modified Liouville equation for the order parameter 
+
+$$\nabla^{2} \log \Psi = |\Psi|^{2}-1$$
+
+Several localized solutions can be obtained from this representation. For instance, we have shown the existence of donuts, droplets and fillaments adding to vortex as allowed structures in the intertype diagram.
+    </article>
+<br>
+    <br>
+    <br>
+    
+    
+    <a href="javascript:history.back()"><small>Main menu</small> </a>
