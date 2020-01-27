@@ -1,0 +1,21 @@
+body {
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-image: url("Superconductivity.jpg");
+background-color: #cccccc;
+}
+    
+.box {
+  height: 500px;
+}    
+img {
+  float: left;
+}    
+    
+
+div.relative {
+  position: relative;
+  left: 40px;
+  top: 80px;
+}    
