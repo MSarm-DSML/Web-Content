@@ -14,10 +14,19 @@ background-color: #cccccc;
 img {
   float: left;
 }    
+
+
+img {
+  float: left;
+}    
     
+article {
+  display: block;
+  color:snow
+}
 
 div.relative {
   position: relative;
   left: 40px;
-  top: 80px;
+  top: 200px;
 }    
