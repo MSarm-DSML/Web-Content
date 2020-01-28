@@ -49,12 +49,9 @@ a {
 }
 
 
-href {
-    color:snow;
-}
-
 div.relative {
   position: relative;
   left: 40px;
   top: 200px;
+    color:snow;
 }    
