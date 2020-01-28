@@ -1,27 +1,21 @@
 
-body {
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-background-image: url("Superconductivity.jpg");
-background-color: #cccccc;
-opacity: 0.2;
+#main{
+position:relative;
 }
-    
-.box {
-  height: 500px;
-}    
-img {
-  float: left;
-  
-  opacity: 0.2;
-}    
+div#first{
+background-image: url('Superconductivity.jpg');
+opacity:0.2;
+width:300px;
+height:300px;
+}
+div#second{
+width:300px;
+height:300px;
+position:absolute;
+top: 0;
+left:0;
+}
 
-    
-article {
-  display: block;
-    style="color:snow";
-}
 
 div.relative {
   position: relative;
