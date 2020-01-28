@@ -5,6 +5,7 @@ background-size: cover;
 background-position: center;
 background-image: url("Superconductivity.jpg");
 background-color: #cccccc;
+opacity: 0.2;
 }
     
 .box {
