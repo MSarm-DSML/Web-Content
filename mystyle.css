@@ -9,7 +9,7 @@ background-color: #cccccc;
 }
 
 ul { /* Unordered lists in the body */
-	list-style-type: square;
+	list-style-type: none;
 }  
 
 
