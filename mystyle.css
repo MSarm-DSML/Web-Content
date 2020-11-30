@@ -31,10 +31,15 @@ article {
 
 
 h {
+  position: relative;
+  left: 20px;
     color:snow;
 }
 
-div {
+div {  
+  position: relative;
+  left: 20px;
+
     color:snow;
 }
 
