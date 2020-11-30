@@ -32,6 +32,8 @@ article {
 
 h {
     color:snow;
+position: relative;
+  left: 10px;
 }
 
 div {  
