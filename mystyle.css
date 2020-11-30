@@ -7,7 +7,12 @@ background-position: center;
 background-image: url("Superconductivity.jpg");
 background-color: #cccccc;
 }
-    
+
+ul { /* Unordered lists in the body */
+	list-style-type: square;
+}  
+
+
 .box {
   height: 500px;
 }    
